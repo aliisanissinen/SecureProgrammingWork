@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LogInWindow.qml</file>
+        <file>ApplicationWindow.qml</file>
+        <file>HelpWindow.qml</file>
+        <file>UserInfoWindow.qml</file>
+        <file>ChangePasswordWindow.qml</file>
+    </qresource>
+</RCC>
